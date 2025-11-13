@@ -6,7 +6,7 @@ and Peanut Soup pages.
 # About
 This project is an assignment which was embarked on by
 Kwamed2k (a student of The Odin Project) and it seeks to introduce
-the auther of this to the basic knowledge of HTML.
+the author of this to the basic knowledge of HTML.
 
 # Built with
 HTML and CSS
